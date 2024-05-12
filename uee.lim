@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FFCB97</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>O Caderno do Santiago</titulo>
+        <subtitulo>UEE da Escola de Santiago</subtitulo>
+        <autor>Filipe Roque</autor>
+        <iden>UE1 | AGRUPAMENTO AFONSO DE PAIVA</iden>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>capa_Ebook_-_SANTIAGO_(1).png</imaxe>
+              <son auto="1">capa.mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="12"><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>PUZZLE N.º1</cabeceira>
+              <imaxe>N._1_e_palavra_(1).jpg</imaxe>
+              <imfondo  trans="20">N._1_e_palavra_(1).jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>PUZZLE N.º2</cabeceira>
+              <imaxe>N._2_e_palavra.png</imaxe>
+              <imfondo  trans="20">N._2_e_palavra.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>PUZZLE N.º3</cabeceira>
+              <imaxe>N._3_e_palavra.png</imaxe>
+              <imfondo  trans="20">N._3_e_palavra.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>ARRASTA O 1 E O 2 PARA O LUGAR CORRECTO</cabeceira>
+              <caixa1>UM</caixa1>
+              <caixa2>Dois</caixa2>
+              <mini caixa="1">N._1.png</mini>
+              <mini caixa="2">N._2.png</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>7</tipo>
+              <cabeceira>ARRASTA O 3 E O 2 PARA O LUGAR CORRECTO</cabeceira>
+              <caixa1>TRÊS</caixa1>
+              <caixa2>Dois</caixa2>
+              <mini caixa="1">N._3.png</mini>
+              <mini caixa="2">N._2.png</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>20</tipo>
+              <cabeceira>COLOCA AS ETIQUETAS NO LOCAL CERTO</cabeceira>
+              <imaxe>Figuras_GEom_etricas_(2).png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="213" posy="41">Círculo</etiqueta>
+              <etiqueta posx="298" posy="138">Quadrado</etiqueta>
+              <etiqueta posx="68" posy="134">Retângulo</etiqueta>
+              <etiqueta posx="61" posy="61">Triângulo</etiqueta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._1_e_palavra_(1).jpg"  son="">UM</peza>
+        </paxina>
+        <paxina id="9" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._2_e_palavra.png"  son="">DOIS</peza>
+        </paxina>
+        <paxina id="10" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._3_e_palavra_(1).png"  son="">TRÊS</peza>
+        </paxina>
+        <paxina id="11" >
+              <tipo>14</tipo>
+              <cabeceira>COLOCA AS QUANTIDADES NO LOCAL CORRETO</cabeceira>
+              <peza imaxe="N._1.png" texto="" son="">1_Quantidade.png</peza>
+              <peza imaxe="N._2.png" texto="" son="">2_Quantidade.png</peza>
+              <peza imaxe="N._3.png" texto="" son="">3_Quantidade.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <cabeceira>COLOCA AS PALAVRAS NO LOCAL CORRETO</cabeceira>
+              <peza imaxe="N._1.png" texto="" son="">N._1_palavra.png</peza>
+              <peza imaxe="N._2.png" texto="" son="">N._2_palavra.png</peza>
+              <peza imaxe="N._3.png" texto="" son="">N._3_palavra_(1).png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>14</tipo>
+              <cabeceira>COLOCA AS PALAVRAS NO LOCAL CORRETO</cabeceira>
+              <peza imaxe="N._1.png" texto="" son="">N._1_palavra.png</peza>
+              <peza imaxe="N._2.png" texto="" son="">N._2_palavra.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>14</tipo>
+              <cabeceira>COLOCA AS PALAVRAS NO LOCAL CORRETO</cabeceira>
+              <peza imaxe="N._2.png" texto="" son="">N._2_palavra.png</peza>
+              <peza imaxe="N._3.png" texto="" son="">N._3_palavra_(1).png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>14</tipo>
+              <cabeceira>COLOCA AS PALAVRAS NO LOCAL CORRETO</cabeceira>
+              <peza imaxe="N._1.png" texto="" son="">N._1_palavra.png</peza>
+              <peza imaxe="N._3.png" texto="" son="">N._3_palavra_(1).png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._1.png"  son="">UM</peza>
+        </paxina>
+        <paxina id="17" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._2.png"  son="">DOIS</peza>
+        </paxina>
+        <paxina id="18" >
+              <tipo>50</tipo>
+              <cabeceira>ESCREVE O NÚMERO</cabeceira>
+              <peza imaxe="N._3.png"  son="">TRÊS</peza>
+        </paxina>
+        <paxina id="19" >
+              <tipo>3</tipo>
+              <cabeceira>FAZ O PUZZLE</cabeceira>
+              <imaxe>Puzz_menino.png</imaxe>
+              <imfondo  trans="10">Puzz_menino.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>14</tipo>
+              <cabeceira>LIGA A PALAVRAS À IMAGEM</cabeceira>
+              <peza imaxe="Puzz_menino.png" texto="" son="">Menino.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>35</tipo>
+              <cabeceira>ESCREVER A PALAVRA MENINO</cabeceira>
+              <forma>0</forma>
+              <completa>Palavra_Menino_(2).jpg</completa>
+              <completa>Palavra_Menino_(1).jpg</completa>
+              <completa>Palavra_Menino.jpg</completa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>14</tipo>
+              <cabeceira>LIGA A PALAVRAS À IMAGEM</cabeceira>
+              <peza imaxe="Menino_clipart.jpg" texto="" son="">Menino.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>32</tipo>
+              <cabeceira>| O QUE VEM A SEGUIR? FAZ A SEQUÊNCIA.</cabeceira>
+              <modo></modo>
+              <etiqueta>Puzz_menina.jpg</etiqueta>
+              <etiqueta>Puzz_menino.png</etiqueta>
+              <etiqueta>Puzz_menina.jpg</etiqueta>
+              <etiqueta>Puzz_menino.png</etiqueta>
+        </paxina>
+        <paxina id="24" >
+              <tipo>14</tipo>
+              <cabeceira>LIGA A PALAVRAS À IMAGEM</cabeceira>
+              <peza imaxe="Menino_clipart.jpg" texto="" son="">Menino.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>3</tipo>
+              <cabeceira>FAZ O PUZZLE</cabeceira>
+              <imaxe>Puzz_menina.jpg</imaxe>
+              <imfondo  trans="10">Puzz_menina.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>14</tipo>
+              <cabeceira>LIGA A PALAVRAS À IMAGEM</cabeceira>
+              <peza imaxe="Puzz_menina.jpg" texto="" son="">MEnina.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>14</tipo>
+              <cabeceira>LIGA A PALAVRAS À IMAGEM</cabeceira>
+              <peza imaxe="Menina_clipart.jpg" texto="" son="">MEnina.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <cabeceira>O QUE É? ESCREVE A PALAVRA</cabeceira>
+              <imfondo  posx="110" posy="0">N._3_e_palavra_(1).png</imfondo>
+              <ctapa>000000</ctapa>
+              <resp>TRÊS</resp>
+              <rdim>100</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>5</tipo>
+              <cabeceira>O QUE É? ESCREVE A PALAVRA</cabeceira>
+              <imfondo  posx="81" posy="0">N._2_e_palavra.png</imfondo>
+              <ctapa>000000</ctapa>
+              <resp>DOIS</resp>
+              <rdim>100</rdim>
+        </paxina>
+        <paxina id="30" >
+              <tipo>5</tipo>
+              <cabeceira>O QUE É? ESCREVE A PALAVRA</cabeceira>
+              <imfondo  posx="0" posy="0">Puzz_menino.png</imfondo>
+              <ctapa>000000</ctapa>
+              <resp>MENINO</resp>
+              <rdim>100</rdim>
+        </paxina>
+        <paxina id="31" >
+              <tipo>5</tipo>
+              <cabeceira>O QUE É? ESCREVE A PALAVRA</cabeceira>
+              <imfondo  posx="0" posy="0">N._1_e_palavra_(1).jpg</imfondo>
+              <ctapa>000000</ctapa>
+              <resp>UM</resp>
+              <rdim>100</rdim>
+        </paxina>
+        <paxina id="32" >
+              <tipo>30</tipo>
+              <cabeceira>COLOCA OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <imaxe posx="2" posy="5">Sequencia_at_e_7.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="59" posy="94">2</etiqueta>
+              <etiqueta posx="55" posy="219">4</etiqueta>
+              <etiqueta posx="55" posy="338">7</etiqueta>
+        </paxina>
+        <paxina id="33" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="34" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>2</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="35" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="36" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="37" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="38" >
+              <tipo>33</tipo>
+              <cabeceira>CALCULA</cabeceira>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>1</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="39" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="123456789        "  posy="00000000000000000">01001001111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="40" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="123456789        "  posy="00000000000000000">10101010111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="41" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="1234             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="42" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="3456             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="43" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="4567             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="44" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="3456             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="45" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="5678             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="46" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="1234             "  posy="00000000000000000">10101111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="47" >
+              <tipo>49</tipo>
+              <cabeceira>ESCREVE OS NÚMEROS NO LOCAL CORRETO</cabeceira>
+              <modo>1</modo>
+              <etiqueta texto="789              "  posy="00000000000000000">10111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+              <etiqueta texto="                 "  posy="00000000000000000">11111111111111111</etiqueta>
+        </paxina>
+        <paxina id="48" >
+              <tipo>38</tipo>
+              <cabeceira>FIM</cabeceira>
+              <imaxe>pAG__FINAL_Ebook_.jpg</imaxe>
+              <son auto="1">capa.mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="12"><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
